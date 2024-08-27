@@ -7,5 +7,5 @@
   "poetry":"github.com/paketo-buildpacks/poetry",
   "poetry-install":"github.com/paketo-buildpacks/poetry-install",
   "build-plan":"github.com/paketo-community/build-plan",
-  "watchexec":"github.com/paketo-buildpacks/watchexec"
+  "watchexec":"github.com/initializ-buildpacks/watchexec"
 }
